@@ -1,0 +1,10 @@
+$ echo "somebody\nonce\ntold me" | python3 nl.py
+    1  somebody
+    2  once
+    3  told me
+$ python3 nl.py nl.py
+    1  import sys
+    2  import fileinput
+    3  
+    4  for i, line in enumerate(fileinput.input(sys.argv[1:])):
+    5      print(f"    {i + 1}  {line}", end="")

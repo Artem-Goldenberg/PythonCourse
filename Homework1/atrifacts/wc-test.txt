@@ -1,0 +1,8 @@
+$ python3 wc.py nl.py tail.py
+        5       15      128     nl.py
+        18      47      473     tail.py
+        23      62      601     total
+$ echo "some\nmore" | python3 wc.py
+        2       2       10
+$ python3 wc.py some               
+        0       0       0       some
