@@ -1,0 +1,27 @@
+$ python3 application.py
+THIS
+CONTENT
+[46:57] (A) Received: 'THIS'
+[46:57] (B) Received: 'this'
+[46:57] (Main) Received: 'guvf'
+WAS
+GENERATED
+[47:2] (A) Received: 'CONTENT'
+[47:2] (B) Received: 'content'
+[47:2] (Main) Received: 'pbagrag'
+by
+Me
+[47:7] (A) Received: 'WAS'
+[47:7] (B) Received: 'was'
+[47:7] (Main) Received: 'jnf'
+[47:12] (A) Received: 'GENERATED'
+[47:12] (B) Received: 'generated'
+[47:12] (Main) Received: 'trarengrq'
+CANCEL
+[47:17] (A) Received: 'by'
+[47:17] (B) Received: 'by'
+[47:17] (Main) Received: 'ol'
+[47:22] (A) Received: 'Me'
+[47:22] (B) Received: 'me'
+[47:27] (A) Received: 'CANCEL'
+[47:27] (B) Received: 'CANCEL'
